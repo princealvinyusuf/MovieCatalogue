@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="detail">Rincian</string>
+    <string name="share">Berbagi</string>
+    <string name="title">Judul</string>
+    <string name="close">Tutup</string>
+    <string name="movies">Film</string>
+    <string name="tv_show">Acara TV</string>
+
+    <string name="language">Bahasa</string>
+    <string name="change_localization">Ubah Bahasa Perangkat</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="poster">Poster</string>
+    <string name="logo">Logo</string>
+
+    <string name="favorite">Kesukaan</string>
+
+    <string name="date">Tanggal</string>
+    <string name="overview">Gambaran Umum</string>
+    <string name="this_is_content">Ini adalah Konten</string>
+    <string name="image">Image</string>
+
+    <string name="your_favorite">Favorite Kamu</string>
+    <string name="zonk">Kosong</string>
+    <string name="search">Search</string>
+    <string name="release_today_reminder">Pengingat Rilis Harian</string>
+    <string name="release_today_desc">Aplikasi akan mengirimi anda informasi film yang rilis hari ini</string>
+    <string name="daily_reminder">Pengingat Kunjungan Aplikasi</string>
+    <string name="daily_reminder_desc">Aplikasi akan memberitahu anda untuk datang kembali ke Aplikasi Movie Catalogue</string>
+    <string name="reminder">Pengingat</string>
+
+    <string name="notify_release">Film Ini Telah Dirilis Hari Ini</string>
+    <string name="notify_daily">sangat suka padamu, Mohon Kembalilah</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FavoriteMovie</string>
+    <string name="detail">Detail Movie</string>
+    <string name="image">Image</string>
+    <string name="lorem_ipsum">lorem ipsum</string>
+    <string name="overview">Overview</string>
+    <string name="release">Release</string>
+    <string name="favorite">Favorite</string>
+    <string name="poster">Poster</string>
+</resources>

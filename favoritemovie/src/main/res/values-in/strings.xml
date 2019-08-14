@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FavoriteMovie</string>
+    <string name="detail">Detail Film</string>
+    <string name="image">Gambar</string>
+    <string name="lorem_ipsum">lorem ipsum</string>
+    <string name="overview">Deskripsi</string>
+    <string name="release">Rilis</string>
+    <string name="favorite">Favorite</string>
+    <string name="poster">Poster</string>
+</resources>
